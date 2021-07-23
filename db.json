@@ -2,7 +2,7 @@
   "dishes": [
     {
       "id": 0,
-      "name": "Uthappizza",
+      "name": "Uthappiza",
       "image": "images/uthappizza.png",
       "category": "mains",
       "label": "Hot",
